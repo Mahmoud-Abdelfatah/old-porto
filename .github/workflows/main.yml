@@ -18,4 +18,4 @@ jobs:
         server: abdelfatahdev.us.to
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /my_protofoli
+        server-dir: /my_protofoli/
